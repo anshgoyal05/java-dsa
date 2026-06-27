@@ -1,53 +1,22 @@
-# 🚀 Apna College DSA Sheet – Java Solutions
+# 🚀 LeetCode Solutions in Java
 
-A comprehensive collection of **Java solutions** for the **Apna College DSA Sheet**, featuring clean code, optimized algorithms, detailed explanations, and time & space complexity analysis. This repository documents my journey of mastering **Data Structures & Algorithms (DSA)** and preparing for coding interviews.
+This repository contains my solutions to **LeetCode** problems implemented in **Java**. The solutions are automatically synced using **LeetHub** and serve as a record of my journey in mastering **Data Structures & Algorithms (DSA)** and preparing for software engineering interviews.
 
 ---
 
 ## 📖 About
 
-This repository contains my solutions to the problems from the **Apna College DSA Sheet**. Each solution is written with a focus on problem-solving, code quality, and interview readiness.
-
-Every problem is solved using the most efficient approach possible while maintaining readability and proper documentation.
+This repository showcases my progress in solving LeetCode problems across various topics and difficulty levels. Each solution focuses on writing clean, efficient, and interview-ready Java code.
 
 ---
 
 ## ✨ Features
 
 - 💻 Java solutions
-- 📚 Topic-wise organization
 - ⚡ Optimized algorithms
-- 📝 Clean and readable code
-- 📊 Time & Space Complexity analysis
-- 🎯 Interview-oriented approaches
-- 🔄 Regularly updated
-
----
-
-## 📂 Repository Structure
-
-```text
-Apna-College-DSA/
-│
-├── Arrays/
-├── Strings/
-├── Binary Search/
-├── Recursion/
-├── Backtracking/
-├── Linked List/
-├── Stack/
-├── Queue/
-├── Binary Trees/
-├── Binary Search Trees/
-├── Heap/
-├── Trie/
-├── Graphs/
-├── Dynamic Programming/
-├── Greedy/
-├── Miscellaneous/
-│
-└── README.md
-```
+- 🧠 Interview-focused problem solving
+- 📈 Regularly updated via LeetHub
+- 📚 Covers a wide range of DSA topics
 
 ---
 
@@ -55,132 +24,48 @@ Apna-College-DSA/
 
 - Arrays
 - Strings
-- Searching & Sorting
+- Hashing
+- Two Pointers
+- Sliding Window
 - Binary Search
-- Recursion
-- Backtracking
 - Linked Lists
 - Stack
 - Queue
-- Binary Trees
+- Trees
 - Binary Search Trees
-- Heaps (Priority Queue)
-- Tries
+- Heap (Priority Queue)
 - Graphs
-- Greedy Algorithms
 - Dynamic Programming
+- Greedy Algorithms
+- Backtracking
 - Bit Manipulation
-- Mathematics
-
----
-
-## 📄 Solution Format
-
-Each solution follows a consistent structure.
-
-```java
-/*
- * Problem:
- * Difficulty:
- *
- * Approach:
- * - Brute Force
- * - Better
- * - Optimal
- *
- * Time Complexity:
- *
- * Space Complexity:
- */
-
-class Solution {
-
-}
-```
-
----
-
-## 📈 Progress
-
-This repository is continuously updated as I solve more problems from the Apna College DSA Sheet.
+- Math
 
 ---
 
 ## 🎯 Goals
 
 - Master Data Structures & Algorithms
-- Strengthen problem-solving skills
-- Write clean and optimized Java code
-- Prepare for coding interviews
-- Build a strong GitHub portfolio
+- Solve 500+ LeetCode problems
+- Improve problem-solving skills
+- Prepare for technical interviews
+- Maintain consistency in coding practice
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Language:** Java
-- **IDE:** IntelliJ IDEA / VS Code
-- **Version Control:** Git & GitHub
-
----
-
-## 🤝 Contributions
-
-This repository is maintained for learning purposes. Suggestions for improving code quality, readability, or optimization are always welcome.
+- Java
+- LeetCode
+- LeetHub
+- Git & GitHub
 
 ---
 
 ## ⭐ Support
 
-If you find this repository helpful, consider giving it a **⭐ Star**. It encourages me to continue learning and sharing my progress.
+If you find this repository helpful, consider giving it a ⭐ Star!
 
 ---
 
-## 📬 Connect With Me
-
-- **GitHub:** https://github.com/anshgoyal05
-- **LinkedIn:** https://linkedin.com/in/anshgoyal05
-
----
-
-> **"Consistency is the key to mastering Data Structures & Algorithms."** 🚀
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0088-merge-sorted-array](https://github.com/anshgoyal05/java-dsa/tree/master/0088-merge-sorted-array) |
-| [0169-majority-element](https://github.com/anshgoyal05/java-dsa/tree/master/0169-majority-element) |
-| [2965-find-missing-and-repeated-values](https://github.com/anshgoyal05/java-dsa/tree/master/2965-find-missing-and-repeated-values) |
-## Hash Table
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/anshgoyal05/java-dsa/tree/master/0169-majority-element) |
-| [2965-find-missing-and-repeated-values](https://github.com/anshgoyal05/java-dsa/tree/master/2965-find-missing-and-repeated-values) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/anshgoyal05/java-dsa/tree/master/0169-majority-element) |
-## Sorting
-|  |
-| ------- |
-| [0088-merge-sorted-array](https://github.com/anshgoyal05/java-dsa/tree/master/0088-merge-sorted-array) |
-| [0169-majority-element](https://github.com/anshgoyal05/java-dsa/tree/master/0169-majority-element) |
-## Counting
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/anshgoyal05/java-dsa/tree/master/0169-majority-element) |
-## Math
-|  |
-| ------- |
-| [2965-find-missing-and-repeated-values](https://github.com/anshgoyal05/java-dsa/tree/master/2965-find-missing-and-repeated-values) |
-## Matrix
-|  |
-| ------- |
-| [2965-find-missing-and-repeated-values](https://github.com/anshgoyal05/java-dsa/tree/master/2965-find-missing-and-repeated-values) |
-## Two Pointers
-|  |
-| ------- |
-| [0088-merge-sorted-array](https://github.com/anshgoyal05/java-dsa/tree/master/0088-merge-sorted-array) |
-<!---LeetCode Topics End-->
+> *"Success in coding interviews comes from consistency, not luck."* 🚀

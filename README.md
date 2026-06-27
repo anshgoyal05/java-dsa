@@ -151,10 +151,12 @@ If you find this repository helpful, consider giving it a **⭐ Star**. It encou
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anshgoyal05/java-dsa/tree/master/0169-majority-element) |
+| [2965-find-missing-and-repeated-values](https://github.com/anshgoyal05/java-dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anshgoyal05/java-dsa/tree/master/0169-majority-element) |
+| [2965-find-missing-and-repeated-values](https://github.com/anshgoyal05/java-dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -167,4 +169,12 @@ If you find this repository helpful, consider giving it a **⭐ Star**. It encou
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anshgoyal05/java-dsa/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/anshgoyal05/java-dsa/tree/master/2965-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/anshgoyal05/java-dsa/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->

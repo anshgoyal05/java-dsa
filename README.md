@@ -150,6 +150,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. It encou
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/anshgoyal05/java-dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/anshgoyal05/java-dsa/tree/master/0169-majority-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/anshgoyal05/java-dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -164,6 +165,7 @@ If you find this repository helpful, consider giving it a **⭐ Star**. It encou
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/anshgoyal05/java-dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/anshgoyal05/java-dsa/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -177,4 +179,8 @@ If you find this repository helpful, consider giving it a **⭐ Star**. It encou
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/anshgoyal05/java-dsa/tree/master/2965-find-missing-and-repeated-values) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/anshgoyal05/java-dsa/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->

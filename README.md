@@ -1,39 +1,33 @@
-# 🚀 Striver's SDE Sheet – Java Solutions
+# 🚀 Apna College DSA Sheet – Java Solutions
 
-A comprehensive collection of **Java solutions** for **Striver's SDE Sheet**, featuring clean code, optimized approaches, detailed explanations, and time & space complexity analysis. This repository is my journey toward mastering **Data Structures & Algorithms (DSA)** and preparing for technical interviews at top product-based companies.
+A comprehensive collection of **Java solutions** for the **Apna College DSA Sheet**, featuring clean code, optimized algorithms, detailed explanations, and time & space complexity analysis. This repository documents my journey of mastering **Data Structures & Algorithms (DSA)** and preparing for coding interviews.
 
 ---
 
 ## 📖 About
 
-This repository contains my solutions to the problems from **Striver's SDE Sheet**, one of the most popular interview preparation roadmaps for Software Engineering roles.
+This repository contains my solutions to the problems from the **Apna College DSA Sheet**. Each solution is written with a focus on problem-solving, code quality, and interview readiness.
 
-Each solution is written with a focus on:
-
-- ✅ Clean and readable Java code
-- ✅ Multiple approaches (Brute Force → Better → Optimal, whenever applicable)
-- ✅ Time & Space Complexity analysis
-- ✅ Interview-oriented explanations
-- ✅ Best coding practices
+Every problem is solved using the most efficient approach possible while maintaining readability and proper documentation.
 
 ---
 
 ## ✨ Features
 
-- 💻 Java-based solutions
-- 📝 Well-documented code
-- ⚡ Optimized algorithms
-- 📊 Time & Space Complexity included
-- 🎯 Interview-focused approaches
-- 🔄 Regular updates
+- 💻 Java solutions
 - 📚 Topic-wise organization
+- ⚡ Optimized algorithms
+- 📝 Clean and readable code
+- 📊 Time & Space Complexity analysis
+- 🎯 Interview-oriented approaches
+- 🔄 Regularly updated
 
 ---
 
 ## 📂 Repository Structure
 
 ```text
-Strivers-SDE-Sheet/
+Apna-College-DSA/
 │
 ├── Arrays/
 ├── Strings/
@@ -43,11 +37,11 @@ Strivers-SDE-Sheet/
 ├── Linked List/
 ├── Stack/
 ├── Queue/
-├── Binary Tree/
-├── Binary Search Tree/
+├── Binary Trees/
+├── Binary Search Trees/
 ├── Heap/
 ├── Trie/
-├── Graph/
+├── Graphs/
 ├── Dynamic Programming/
 ├── Greedy/
 ├── Miscellaneous/
@@ -70,14 +64,13 @@ Strivers-SDE-Sheet/
 - Queue
 - Binary Trees
 - Binary Search Trees
-- Heap (Priority Queue)
-- Trie
+- Heaps (Priority Queue)
+- Tries
 - Graphs
 - Greedy Algorithms
 - Dynamic Programming
 - Bit Manipulation
 - Mathematics
-- Miscellaneous Interview Problems
 
 ---
 
@@ -109,34 +102,17 @@ class Solution {
 
 ## 📈 Progress
 
-| Category | Status |
-|----------|--------|
-| Arrays | ⏳ In Progress |
-| Strings | ⏳ In Progress |
-| Binary Search | ⏳ In Progress |
-| Recursion | ⏳ In Progress |
-| Backtracking | ⏳ In Progress |
-| Linked List | ⏳ In Progress |
-| Stack | ⏳ In Progress |
-| Queue | ⏳ In Progress |
-| Binary Tree | ⏳ In Progress |
-| Binary Search Tree | ⏳ In Progress |
-| Heap | ⏳ In Progress |
-| Trie | ⏳ In Progress |
-| Graph | ⏳ In Progress |
-| Dynamic Programming | ⏳ In Progress |
-| Greedy | ⏳ In Progress |
-| Miscellaneous | ⏳ In Progress |
+This repository is continuously updated as I solve more problems from the Apna College DSA Sheet.
 
 ---
 
 ## 🎯 Goals
 
-- Solve every problem from Striver's SDE Sheet.
-- Strengthen problem-solving skills.
-- Master Data Structures & Algorithms.
-- Write optimized and interview-ready Java code.
-- Prepare for Software Engineering internships and placements.
+- Master Data Structures & Algorithms
+- Strengthen problem-solving skills
+- Write clean and optimized Java code
+- Prepare for coding interviews
+- Build a strong GitHub portfolio
 
 ---
 
@@ -150,13 +126,13 @@ class Solution {
 
 ## 🤝 Contributions
 
-This repository is maintained for learning and interview preparation. Suggestions for improving code quality, readability, or optimization are always welcome.
+This repository is maintained for learning purposes. Suggestions for improving code quality, readability, or optimization are always welcome.
 
 ---
 
 ## ⭐ Support
 
-If you find this repository useful, consider giving it a **⭐ Star**. It motivates me to continue learning and sharing my progress.
+If you find this repository helpful, consider giving it a **⭐ Star**. It encourages me to continue learning and sharing my progress.
 
 ---
 
@@ -167,4 +143,4 @@ If you find this repository useful, consider giving it a **⭐ Star**. It motiva
 
 ---
 
-> *"Consistency beats intensity. One optimized solution every day is better than solving many without understanding."* 🚀
+> **"Consistency is the key to mastering Data Structures & Algorithms."** 🚀

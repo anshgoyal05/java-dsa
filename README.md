@@ -69,24 +69,3 @@ If you find this repository helpful, consider giving it a ⭐ Star!
 ---
 
 > *"Success in coding interviews comes from consistency, not luck."* 🚀
-
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1512-number-of-good-pairs](https://github.com/anshgoyal05/java-dsa/tree/master/1512-number-of-good-pairs) |
-## Hash Table
-|  |
-| ------- |
-| [1512-number-of-good-pairs](https://github.com/anshgoyal05/java-dsa/tree/master/1512-number-of-good-pairs) |
-## Math
-|  |
-| ------- |
-| [1512-number-of-good-pairs](https://github.com/anshgoyal05/java-dsa/tree/master/1512-number-of-good-pairs) |
-## Counting
-|  |
-| ------- |
-| [1512-number-of-good-pairs](https://github.com/anshgoyal05/java-dsa/tree/master/1512-number-of-good-pairs) |
-<!---LeetCode Topics End-->
